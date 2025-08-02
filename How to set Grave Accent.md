@@ -75,3 +75,8 @@ $base = "$tempKey\Keyboard Layout\Toggle"
 ```
 
 - หลังจากนี้ user ใหม่ที่สร้างโปรไฟล์จะได้รับค่าตามที่ตั้งไว้ทันทีเมื่อล็อกอินแรก
+
+## การใช้งาน
+1. เลือกวิธีที่ต้องการใช้งาน
+2. copy code powershell ในวิธีที่ต้องการใช้งาน
+3. เปิดโปรแกรม WindowsPowerShell **run administrator** แนะนำเป็นแบบ Windows PowerShell ISE เนื่องจากสามารถวาง code ทุกบรรทัดแล้ว run ครั้งเดียวได้
